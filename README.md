@@ -10,7 +10,7 @@ This project involves analyzing and visualizing data on bike sales to understand
 - Understand regional and educational influences on bike sales.
 
 ## Dashboard Preview
-![Bike Sales Dashboard](./images/bike_sales_dashboard.png)
+![Bike Sales Dashboard](Dashboard.png)
 
 ## Data Overview
 The dataset includes the following columns:
@@ -45,14 +45,6 @@ The dataset includes the following columns:
 - Shorter commute distances (0-1 miles) have the highest number of bike purchases.
 - Males generally have higher average incomes, but gender differences in bike purchases vary by region.
 
-## Challenges
-- Managing and cleaning the data for consistent analysis.
-- Designing a dashboard that is both visually appealing and informative.
-
-## Future Enhancements
-- Include time-series analysis to observe bike sales trends over time.
-- Integrate additional demographic factors for deeper insights.
-- Create similar dashboards using advanced tools like Power BI or Tableau.
 
 ## Contact Information
 For any questions or collaboration opportunities, feel free to reach out:
